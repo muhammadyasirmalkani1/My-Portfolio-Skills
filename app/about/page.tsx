@@ -49,7 +49,7 @@ export default function AboutPage() {
             <div className="flex items-center justify-center">
               <div className="relative h-[400px] w-full overflow-hidden rounded-lg">
                 <Image
-                  src="/placeholder.svg?height=800&width=600"
+                  src="/img/Installation.png?height=800&width=600"
                   alt="Professional portrait"
                   fill
                   className="object-cover"
