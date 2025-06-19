@@ -1,0 +1,4 @@
+{
+  "note": "This is a placeholder file. Do not store actual API keys or secrets in your code repository.",
+  "instructions": "For Mailchimp integration, obtain an API key from your Mailchimp account and store it securely in your environment variables."
+}
