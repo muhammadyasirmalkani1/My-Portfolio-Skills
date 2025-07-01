@@ -26,7 +26,7 @@ export default function Home() {
                     Hire Me <ArrowRight className="ml-2 h-4 w-4" />
                   </Button>
                 </Link>
-                <Link href="/about">
+                <Link href="https://pakistan-air-defense.vercel.app/">
                   <Button variant="outline">Learn More</Button>
                 </Link>
               </div>
@@ -195,7 +195,7 @@ export default function Home() {
                 Let's collaborate to bring your vision to life with cutting-edge technology and creative design.
               </p>
             </div>
-            <Link href="/contact">
+            <Link href="https://cyber-security-services.vercel.app/">
               <Button size="lg" className="bg-white text-purple-900 hover:bg-gray-100">
                 Get in Touch
               </Button>
