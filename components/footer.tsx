@@ -22,11 +22,11 @@ className="text-muted-foreground hover:text-foreground">
             <span className="sr-only">Twitter</span>
           </Link>
           <Link href="http://linkedin.com/in/muhammadyasirmalkani/"</Link>
-<div className="text-muted-foreground hover:text-foreground"</div>
+<a className="text-muted-foreground hover:text-foreground"</a>
             <Linkedin className="h-5 w-5" />
             <span className="sr-only">LinkedIn</span>
           <Link href="http://linkedin.com/in/muhammadyasirmalkani/"</Link>
-<div className="text-muted-foreground hover:text-foreground"</div>
+<a className="text-muted-foreground hover:text-foreground"</a>
             <Mail className="h-5 w-5" />
             <span className="sr-only">Email</span>
          <Link href="muhammadyasirmalkani@gmail.com"</Link>
