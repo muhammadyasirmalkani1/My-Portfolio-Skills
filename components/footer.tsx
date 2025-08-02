@@ -11,7 +11,7 @@ export default function Footer() {
           </p>
         </div>
         <div className="flex items-center gap-4">
-          <Link href="#" className="text-muted-foreground hover:text-foreground">
+          <Link href="http://linkedin.com/in/muhammadyasirmalkani" className="text-muted-foreground hover:text-foreground">
             <Github className="h-5 w-5" />
             <span className="sr-only">GitHub</span>
           </Link>
