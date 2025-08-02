@@ -195,11 +195,9 @@ export default function Home() {
                 Let's collaborate to bring your vision to life with cutting-edge technology and creative design.
               </p>
             </div>
-            <Link href="https://cyber-security-services.vercel.app/">
-              <Button size="lg" className="bg-white text-purple-900 hover:bg-gray-100">
-                Get in Touch
+              <Button size="lg" className="bg-white text-purple-900 hover:bg-gray-100">Get in Touch<Link href="https://cyber-security-services.vercel.app/"
+               </Link>
               </Button>
-            </Link>
           </div>
         </div>
       </section>
