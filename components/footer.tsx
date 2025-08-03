@@ -19,11 +19,12 @@ export default function Footer() {
             <Twitter className="h-5 w-5" />
             <span className="sr-only">Twitter</span>
           </Link>
-          <Link href="#" className="text-muted-foreground hover:text-foreground"
+          <Link href="#" className="text-muted-foreground hover:text-foreground">
             <Linkedin className="h-5 w-5" />
             <span className="sr-only">LinkedIn</span>
              </Link>
           <Link href="#" className="text-muted-foreground hover:text-foreground"</Link>
+         </div>
         </div>
       </div>
     </footer>
