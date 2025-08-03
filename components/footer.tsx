@@ -11,9 +11,7 @@ export default function Footer() {
           </p>
         </div>
         <div className="flex items-center gap-4">
-           <Link href="http://linkedin.com/in/muhammadyasirmalkani/"
-               </Link>
-className="text-muted-foreground hover:text-foreground">
+           <Link href="http://linkedin.com/in/muhammadyasirmalkani/" className="text-muted-foreground hover:text-foreground">
             <Github className="h-5 w-5" />
             <span className="sr-only">GitHub</span>
           </Link>
@@ -21,15 +19,13 @@ className="text-muted-foreground hover:text-foreground">
             <Twitter className="h-5 w-5" />
             <span className="sr-only">Twitter</span>
           </Link>
-          <Link href="http://linkedin.com/in/muhammadyasirmalkani/"</Link>
-<a className="text-muted-foreground hover:text-foreground"</a>
+          <Link href="http://linkedin.com/in/muhammadyasirmalkani" className="text-muted-foreground hover:text-foreground"
             <Linkedin className="h-5 w-5" />
             <span className="sr-only">LinkedIn</span>
-          <Link href="http://linkedin.com/in/muhammadyasirmalkani/"</Link>
-<a className="text-muted-foreground hover:text-foreground"</a>
+          <Link href="http://linkedin.com/in/muhammadyasirmalkani" className="text-muted-foreground hover:text-foreground"</a>
             <Mail className="h-5 w-5" />
             <span className="sr-only">Email</span>
-         <Link href="muhammadyasirmalkani@gmail.com"</Link>
+         </Link>
         </div>
       </div>
     </footer>
